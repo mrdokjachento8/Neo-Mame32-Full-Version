@@ -236,4 +236,4 @@ This repository serves as the official landing page for Neo MAME32. The software
 **Get the most recent version of Neo MAME32 today!**
 
 ---
-**Last updated:** 2026-10-04 22:15:05 UTC
+**Last updated:** 2026-10-05 01:31:24 UTC
